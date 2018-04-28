@@ -1,7 +1,7 @@
-Contributing to {{Put project name here}}
+Contributing to android254Web
 ===
 We'd love to accept your patches!
-To contribute to {{Put project name here}} simply open a pull request against the [develop branch](https://github.com/yourProfile/YourProject/tree/develop)
+To contribute to Website simply open a pull request against the [develop branch](https://github.com/android254/android254.githu.io/tree/develop)
 
 Ensure you have a develop branch before you place the link.
 
