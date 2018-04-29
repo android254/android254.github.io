@@ -74,8 +74,6 @@ You can:
 
 ### To Do List
 
-Add the various things that you are working on.  
-
 - [ ] Adding bounce animations to the home page
 - [x] Creating a gallery
 - [x] Updating the website to the Maa 2.0 framework
@@ -84,7 +82,7 @@ Add the various things that you are working on.
 - [ ] Building a castle in the air
 - [ ] Listening to new musci from my favourite artist
 
-
+this will also act as a features checklist.
 
 
 #### CONTRIBUTING
@@ -98,7 +96,7 @@ For any concerns, please open an [issue{edit this}](https://github.com/YourUserN
 
 <hr>
 ### License 
-* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
+* see [LICENSE](https://github.com/android254/android254.github.io/LICENSE.md) file
 
 ### Versions 
 Current version that has been deployed is Version 1.0.0
